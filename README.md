@@ -1,4 +1,4 @@
-Gazoo Coin Core
+Gazoo 
 =====================================
 
 What is Gazoo?
